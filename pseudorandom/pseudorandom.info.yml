@@ -1,0 +1,8 @@
+name: 'Pseudorandom'
+type: module
+description: 'Provides a pseudo random orderby sort for views.'
+package: Views
+core: '8.x'
+project: pseudorandom
+dependencies:
+  - views
